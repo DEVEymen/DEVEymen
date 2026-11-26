@@ -37,14 +37,10 @@
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td colspan="2" valign="top">
       <h3>📻 <a href="https://play.google.com/store/apps/details?id=com.aistudio.atsradio.klpwxv">ATS Radio</a></h3>
       <p>Çevrimdışı ses uygulaması. .mp3 ve .m4a dosyalarını dinler, ses dosyalarını bu formatlara dönüştürür. Google Play'de yayında.</p>
       <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"> <img src="https://img.shields.io/badge/Google%20Play-414141?style=flat-square&logo=googleplay&logoColor=white">
-    </td>
-    <td width="50%" valign="top">
-      <h3>♟️ <a href="https://github.com/DEVEymen/ChessPO">ChessPO</a></h3>
-      <p>Satranç projesi.</p>
     </td>
   </tr>
 </table>
